@@ -35,6 +35,7 @@ Security failures should use package-specific exceptions or explicit result obje
 
 ## Documentation
 
+- [Documentation index](docs/index.md)
 - [Usage](docs/usage.md)
 - [Testing](TESTING.md)
 - [Contributing](CONTRIBUTING.md)
